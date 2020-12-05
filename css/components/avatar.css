@@ -1,0 +1,23 @@
+.avatar{
+	width: 250px;
+	height: 270px;
+	border-radius: 4%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.image-size{
+	width: 400px;
+	height: 250px;
+	display: block;
+	border-radius: 4%;
+	margin-bottom: 30px;
+}
+
+.jeju-size{
+	width: 325px;
+	height: 225px;
+	border-radius: 4%;
+	margin-bottom: 30px;
+	margin-right: 10px;
+}
